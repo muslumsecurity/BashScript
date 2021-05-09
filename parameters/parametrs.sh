@@ -1,11 +1,6 @@
 #!/bin/bash
 
 
-
-
-
-
-
 for i in $(cat sub.txt) 
 do 
 	for m in $(cat lfi.txt)
